@@ -1,0 +1,608 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.main-inp {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.main-inp>input {
+  width: 560px;
+  height: 10px;
+  background-color: lightgray;
+  border: 1px solid gray;
+  padding: 20px;
+  outline: none;
+  border-radius: 5px
+}
+
+.inpu {
+  border: none;
+
+}
+
+
+
+.new-main {
+  display: flex;
+  justify-content: center;
+}
+
+.txt-area {
+  width: 560px;
+  height: 150px;
+  background-color: lightgray;
+  border: 1px solid gray;
+  padding: 20px;
+  outline: none;
+  border-radius: 5px;
+}
+
+.card-head {
+  padding-top: 20px;
+}
+
+.card-para {
+  padding-top: 5px;
+}
+
+.txt-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.search-bar {
+  border: 1px solid #DDD;
+  padding-right: 30px;
+  margin-top: 10px;
+  background-color: lightgray;
+  border-radius: 5px;
+}
+
+.search-bar input {
+  border: none;
+  height: 30px;
+  background-color: lightgray;
+  width: 500px;
+  outline: none;
+}
+
+.calen-inp {
+  border: 1px solid #DDD;
+  padding-right: 30px;
+  background-color: lightgray;
+  height: 45px;
+}
+
+.pub-calen-inp {
+  border: 1px solid #DDD;
+  padding-right: 30px;
+  background-color: lightgray;
+  height: 45px;
+  border-radius: 5px;
+
+}
+
+.pub-calen-inp input {
+  border: none;
+  height: 40px;
+  background-color: lightgray;
+  width: 300px;
+  outline: none;
+  padding: 0 10px;
+}
+
+.calen-inp input {
+  border: none;
+  height: 40px;
+  background-color: lightgray;
+  width: 250px;
+  outline: none;
+  padding: 0 10px;
+}
+
+.icon {
+  font-size: 30px;
+  padding-top: 5px;
+  color: black;
+}
+
+.button {
+  background-color: lightgray;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 200px;
+  height: 40px;
+  padding-right: 70px;
+  color: black;
+  padding: 0 10px;
+
+}
+
+.button-main {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 50px;
+}
+
+
+.icon2 {
+  float: left;
+}
+
+
+.dog-main {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  max-width: 1100px;
+  margin: auto;
+  padding-top: 100px;
+  width: 100%;
+}
+
+.dog-img {
+  width: 400px;
+}
+
+.img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+
+.button2 {
+  background-color: lightgray;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 200px;
+  height: 40px;
+  padding-right: 70px;
+  color: black;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.btn {
+  background-color: lightgray;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  color: black;
+}
+
+.outline-icon {
+  margin-left: 500px;
+}
+
+
+.btn-main {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+
+}
+
+
+.btn-main2 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+  gap: 10px;
+}
+
+.pub {
+  font-size: 40px;
+  padding-top: 90px;
+}
+
+.main-con {
+  max-width: 650px;
+  margin: auto;
+}
+
+.pub-para {
+  font-size: 20px;
+}
+
+.outline-icon2 {
+  margin-left: 200px;
+}
+
+.publication-button {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 200px;
+  height: 40px;
+  color: white;
+  padding: 0 10px;
+
+}
+
+.cards-button {
+  background-color: lightgray;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 200px;
+  height: 40px;
+  color: black;
+  padding: 0 10px;
+}
+
+.icon3 {
+  float: right;
+  margin-left: 20px;
+}
+
+.button-main2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 40px;
+}
+
+
+
+.slide-detail-inp {
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.slide-detail-inp2 {
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.slide-detail-inp2>input {
+  width: 520px;
+  height: 10px;
+  background-color: lightgray;
+  border: 1px solid gray;
+  padding: 20px;
+  outline: none;
+
+}
+
+.slide-detail-inp>input {
+  width: 520px;
+  height: 10px;
+  background-color: lightgray;
+  border: 1px solid gray;
+  padding: 20px;
+  outline: none;
+
+}
+
+.slide-detail-txt {
+  margin-top: 20px;
+
+}
+
+.slide-detail-txt-area {
+  width: 520px;
+  height: 400px;
+  background-color: lightgray;
+  border: 1px solid gray;
+  padding: 20px;
+  outline: none;
+}
+
+.watch-img {
+  width: 100%;
+  max-height: 310px;
+  object-fit: cover;
+}
+
+
+.watch-btn {
+  margin-top: 20px;
+  gap: 10px;
+  display: flex;
+}
+
+.pub-input {
+  margin-top: 50px;
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.watch-btns-2 {
+  display: flex;
+  margin-top: 110px;
+  gap: 40px;
+  margin-left: 140px;
+}
+
+.final-flex {
+  display: flex;
+  max-width: 1170px;
+  margin: auto;
+  gap: 40px;
+}
+
+.watch-div {
+  margin-top: 60px;
+  position: relative;
+}
+
+.watch-mini-btn {
+  background-color: lightgray;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  color: black;
+  width: 270px;
+  height: 50px;
+}
+
+.watch-outline-icon {
+  padding-left: 120px;
+}
+
+.absl-btn {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 200px;
+  height: 40px;
+  color: white;
+  padding: 0 10px;
+  position: absolute;
+  top: 260px;
+  left: 20px;
+}
+
+
+.divs {
+  opacity: 0;
+  transform: translateX(100%);
+  animation: fadeIn 0.5s linear forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.div2 {
+  opacity: 0;
+  transform: translateX(100%);
+  animation: fadego 0.5s linear forwards;
+}
+
+@keyframes fadego {
+  from {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.div3 {
+  opacity: 0;
+  transform: translateX(100%);
+  animation: fadeleft 0.5s linear forwards;
+}
+
+@keyframes fadeleft {
+  from {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.div4 {
+  opacity: 0;
+  transform: translateX(100%);
+  animation: fadeup 0.5s linear forwards;
+}
+
+@keyframes fadeup {
+  from {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.div5 {
+  opacity: 0;
+  transform: translateY(100%);
+  animation: card 0.5s linear forwards;
+}
+
+@keyframes card {
+  from {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.div6 {
+  opacity: 0;
+  transform: translateY(100%);
+  animation: card2 0.2s ease-in-out forwards;
+}
+
+@keyframes card2 {
+  from {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.div7 {
+  opacity: 0;
+  transform: translateY(100%);
+  animation: card3 0.3s ease-in-out forwards;
+}
+
+@keyframes card3 {
+
+ from {
+    opacity: 0.5;
+    transform: translateY(20%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+
+.div8 {
+  opacity: 0;
+  transform: translateY(100%);
+  animation: left1 0.3s ease-in-out forwards;
+}
+
+@keyframes left1 {
+  from {
+    opacity: 0;
+    transform: translateY(42%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.div9 {
+  opacity: 0;
+  transform: translateY(100%);
+  animation: left1 0.4s ease-in-out forwards;
+}
+
+@keyframes left1 {
+  from {
+    opacity: 0;
+    transform: translateY(44%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.div10 {
+  opacity: 0;
+  transform: translateY(100%);
+  animation: left1 0.5s ease-in-out forwards;
+}
+
+@keyframes left1 {
+  from {
+    opacity: 0;
+    transform: translateY(46%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.div11 {
+  opacity: 0;
+  transform: translateY(100%);
+  animation: left1 0.3s ease-in-out forwards;
+}
+
+@keyframes left1 {
+  from {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.div12 {
+  opacity: 0;
+  transform: translateY(100%);
+  animation: left1 0.4s ease-in-out forwards;
+}
+
+@keyframes left1 {
+  from {
+    opacity: 0;
+    transform: translateY(30%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
